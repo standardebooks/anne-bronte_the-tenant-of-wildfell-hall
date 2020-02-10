@@ -36,17 +36,17 @@
 		<dc:subject id="subject-5">Married women -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Alcoholics -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">sh2008114941</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh86004353</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">sh2008106578</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">sh2008107257</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
-		<meta property="term" refines="#subject-6">sh2007100944</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
@@ -59,10 +59,10 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-bronte_the-tenant-of-wildfell-hall</meta>
-		<dc:creator id="author">Anne Bronte</dc:creator>
+		<dc:creator id="author">Anne Brontë</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
 		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Bronte</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Bront%C3%AB</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
