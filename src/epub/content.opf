@@ -36,17 +36,17 @@
 		<dc:subject id="subject-5">Married women -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Alcoholics -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh2008114941</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="term" refines="#subject-3">sh86004353</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="term" refines="#subject-4">sh2008106578</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="term" refines="#subject-5">sh2008107257</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
-		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="term" refines="#subject-6">sh2007100944</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">When a mysterious young widow arrives in a small rural area, gossip blackens her name before her true story is eventually discovered by a male admirer.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
