@@ -65,7 +65,7 @@
 		<dc:creator id="author">Anne Brontë</dc:creator>
 		<meta property="file-as" refines="#author">Brontë, Anne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Bront%C3%AB</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79034991</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79034991</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Kate Bisschop-Swift</dc:contributor>
