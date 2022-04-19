@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/tenantofwildfell01bron/</dc:source>
 		<dc:source>https://archive.org/details/tenantofwildfell02bron/</dc:source>
 		<meta property="se:word-count">168941</meta>
-		<meta property="se:reading-ease.flesch">64.75</meta>
+		<meta property="se:reading-ease.flesch">64.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-bronte_the-tenant-of-wildfell-hall</meta>
 		<dc:creator id="author">Anne Brontë</dc:creator>
