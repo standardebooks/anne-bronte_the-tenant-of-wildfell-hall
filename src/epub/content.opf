@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall</dc:identifier>
 		<dc:date>2020-02-18T04:42:13Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2007100944</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">When a mysterious young widow arrives in a small rural area, gossip blackens her name before her true story is eventually discovered by a male admirer.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>When a mysterious young widow arrives in a small rural area, gossip blackens her name before her true story is eventually discovered by a male admirer.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Tenant of Wildfell Hall&lt;/i&gt; was the second novel written by &lt;a href="https://standardebooks.org/ebooks/anne-bronte"&gt;Anne Brontë&lt;/a&gt;, the youngest of the Brontë sisters.&lt;/p&gt;
 			&lt;p&gt;The novel begins with the arrival of a young widow, Mrs. Graham, in a rural neighborhood. She brings with her her five year old son Arthur and takes up residence in the partly ruined Wildfell Hall. Gossip soon begins to swirl around her, questioning her mysterious background and the closeness of her relationship with her landlord.&lt;/p&gt;
 			&lt;p&gt;First released in 1848 under the pseudonym Acton Bell, &lt;i&gt;The Tenant of Wildfell Hall&lt;/i&gt; was considered shocking by the standards of the time due to its themes of domestic disharmony, drunkenness and adultery. Perhaps this was why it quickly became a publishing success. However, when Anne died from tuberculosis her sister Charlotte prevented its republication until 1854, perhaps fearing for her sister’s reputation, though some attributed her actions to jealousy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/969</dc:source>
 		<dc:source>https://archive.org/details/tenantwildfellha00broniala</dc:source>
